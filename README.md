@@ -9,6 +9,9 @@ Used CRUD operations to implement all the database operations.
 ## Video Demo
 [Student Management System](https://www.youtube.com/watch?v=vLAJZ401WQw&t=1s)
 
+## Image Result
+<img src="/Image Result/Op.png" width="500px">
+
 ## Installation 
 1. Clone the repository 
 ```
