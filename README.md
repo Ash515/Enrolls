@@ -1,7 +1,15 @@
-# Student-Management-System
+# Student Management System 👩‍🎓👨‍🎓
 A desktop python based software used for maintaining students records.
 
-# 🚀&nbsp;Installation 
+## Features
+1) Adding students names
+2) Deleting students names
+3) Updating student details
+
+## Video Demo
+[Student Management System](https://www.youtube.com/watch?v=vLAJZ401WQw&t=1s)
+
+## Installation 
 1. Clone the repository 
 ```
 https://github.com/Ash515/Student-Management-System.git
