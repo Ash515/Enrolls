@@ -1,6 +1,6 @@
 # Student Management System 👩‍🎓👨‍🎓
-A desktop python based software used for maintaining students records.
-
+A python based software which helpful to maintain students records very efficiently. 
+Used CRUD operations to implement all the database operations.
 ## Features
 1) Adding students names
 2) Deleting students names
