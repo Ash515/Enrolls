@@ -40,5 +40,6 @@ $git push origin master
 ```
 Thats all about installation and version control with **Git**
 
-# Developer ❤
-[Ashwin Kumar Ramaswamy](https://github.com/Ash515).
+## Contributors ❤
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
+[Suraj Bhosale](https://github.com/suraj7224)
