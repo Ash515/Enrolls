@@ -1,4 +1,4 @@
-# Student Management System 👩‍🎓👨‍🎓
+# Student Management System 
 A python based software which helpful to maintain students records very efficiently. 
 Used CRUD operations to implement all the database operations.
 ## Features
