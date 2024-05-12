@@ -2,9 +2,9 @@
 A python based software which helpful to maintain students records very efficiently. 
 Used CRUD operations to implement all the database operations.
 ## Features
-1) Adding students names
-2) Deleting students names
-3) Updating student details
+1) Adding students names.
+2) Deleting students names.
+3) Updating student details.
 
 ## Video Demo
 [Student Management System](https://www.youtube.com/watch?v=vLAJZ401WQw&t=1s)
